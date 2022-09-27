@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_go (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_go (from `.symlinks/plugins/flutter_go/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_go:
+    :path: ".symlinks/plugins/flutter_go/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  flutter_go: e16871d05317cdf038d3bdc8d41d121846a0f259
+
+PODFILE CHECKSUM: 663715e941f9adb426e33bf9376914006f9ea95b
+
+COCOAPODS: 1.11.2

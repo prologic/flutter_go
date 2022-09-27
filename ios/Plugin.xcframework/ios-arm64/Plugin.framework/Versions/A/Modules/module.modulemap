@@ -1,0 +1,10 @@
+framework module "Plugin" {
+	header "ref.h"
+    header "Plugin.objc.h"
+    header "Channel.objc.h"
+    header "Types.objc.h"
+    header "Universe.objc.h"
+    header "Plugin.h"
+
+    export *
+}
